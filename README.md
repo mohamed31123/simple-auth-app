@@ -11,4 +11,7 @@
 #### 5 : add an AuthServiceImpl that implement AuthService and define its methods.
 #### 6 : add JwtService to genereateToken and valid if is it expired or not and so on .
 #### 7 : make sur to add A SecurityConfig ,
+#### 8 : Add an AuthController to your app to treat the http request 
+
+### More detailed : 
 
