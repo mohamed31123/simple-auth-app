@@ -14,4 +14,10 @@
 #### 8 : Add an AuthController to your app to treat the http request 
 
 ### More detailed : 
+---
+## What is the role of the user entity ?
+user entity represent the user table in your database .
+### why using dto :
+DTO stand for data transfer object its main role is to transfer the data instead of interacting directely with the entity to protect the senesitive data like possword for exemple .
+
 
