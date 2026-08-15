@@ -451,3 +451,7 @@ By completing it, you will understand:
 - How JWT tokens are generated and validated
 - How to secure REST APIs
 - How to structure a Spring Boot application using a layered architecture
+
+
+---
+# Author : EDDINARI MED
